@@ -1,0 +1,9 @@
+1) Gathered and integrated relevant data from multiple sources, including financial systems and Excel spreadsheets, ensuring data accuracy and consistency.
+
+2) Designed visualizations and reports to showcase key performance indicators (KPIs), aging analysis, and customer payment trends, enabling timely decision-making for management.
+
+3) Implemented dynamic filters and slicers to allow users to explore data based on various criteria, enhancing the usability and interactivity of the dashboard.
+
+4) Utilized DAX (Data Analysis Expressions) to create calculated measures and calculated columns for custom calculations.
+
+5) The project showcased advanced data visualization techniques, including drill-through and drill-down functionalities, to allow a deeper exploration of financial data.
